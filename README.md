@@ -32,7 +32,9 @@ Filter by:
 Agent Role
 Agent Type
 📸 Dashboard
---
-Performance Metric
-Top N Players
-Dynamic visualizations and comparisons
+
+This analysis can help esports teams:
+
+Identify high-performing players
+Optimize agent selection strategies
+Improve match decision-making using data
